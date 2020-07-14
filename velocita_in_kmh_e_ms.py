@@ -1,4 +1,4 @@
-#Calcolo della velocità in Km/h e m/s
+#Calcolo della velocità in Km/h e m/s v1
 
 #Dati iniziali
 minuti= 21

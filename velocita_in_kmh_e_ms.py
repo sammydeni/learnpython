@@ -16,5 +16,5 @@ m_s = metri / secondi_totali
 km_h = m_s * 3.6
 
 #Output
-print("Velocità", round(m_s, 2), "m/s")
-print("Velocità", round(km_h, 2), "Km/h")
+print("Velocità in millisecondi", round(m_s, 2), "m/s")
+print("Velocità in chilometri", round(km_h, 2), "Km/h")

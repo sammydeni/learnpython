@@ -1,4 +1,4 @@
-"""calcolo media"""
+# Calcolo della media
 a = eval(input("Primo numero: "))
 b = eval(input("Secondo numero: "))
 avg = (a + b) / 2
